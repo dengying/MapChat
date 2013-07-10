@@ -4,5 +4,8 @@
     <string name="app_name">MapChat</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="layers_nomal">Nomal</string>
+    <string name="layers_satellite">Satellite</string>
+    <string name="layers_terrain">Terrain</string>
 
 </resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">消息地图</string>
+    <string name="action_settings">设置</string>
+    <string name="layers_nomal">普通</string>
+    <string name="layers_satellite">卫星</string>
+    <string name="layers_terrain">地形</string>
+    
+</resources>
